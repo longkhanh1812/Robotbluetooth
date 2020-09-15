@@ -1,0 +1,10 @@
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\obj\Debug\BLUETOOTH.csprojAssemblyReference.cache
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\obj\Debug\BLUETOOTH.Form1.resources
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\obj\Debug\BLUETOOTH.Properties.Resources.resources
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\obj\Debug\BLUETOOTH.csproj.GenerateResource.cache
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\obj\Debug\BLUETOOTH.csproj.CoreCompileInputs.cache
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\bin\Debug\BLUETOOTH.exe.config
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\bin\Debug\BLUETOOTH.exe
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\bin\Debug\BLUETOOTH.pdb
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\obj\Debug\BLUETOOTH.exe
+C:\Users\BVCN 88\source\repos\bluetooth\BLUETOOTH\obj\Debug\BLUETOOTH.pdb

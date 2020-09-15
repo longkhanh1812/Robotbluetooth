@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLUETOOTH", "BLUETOOTH\BLUETOOTH.csproj", "{3B4A9F0F-8F78-4919-9462-F641468725B4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "setup\Setup\Setup.vdproj", "{9AE90D19-6E30-414F-8E24-8CF5E6A59401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4A9F0F-8F78-4919-9462-F641468725B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4A9F0F-8F78-4919-9462-F641468725B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4A9F0F-8F78-4919-9462-F641468725B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4A9F0F-8F78-4919-9462-F641468725B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE90D19-6E30-414F-8E24-8CF5E6A59401}.Debug|Any CPU.ActiveCfg = Debug
+		{9AE90D19-6E30-414F-8E24-8CF5E6A59401}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0AE833D-243C-49C8-B7FC-049585CBF945}
+	EndGlobalSection
+EndGlobal
